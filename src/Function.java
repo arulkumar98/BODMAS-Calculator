@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Cal {
+public class Function {
     public void start() {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the maths operation");
@@ -11,10 +11,10 @@ public class Cal {
         Queue<String> operations;
         Queue<String> numbers;
 
-        String[] numArr = input.split("[-+*/%]");
-        String[] operArr = input.split("[0-9]+");
-        numbers = new LinkedList<>(Arrays.asList(numArr));
-        operations = new LinkedList<>(Arrays.asList(operArr));
+        String[] numberArr = input.split("[-+*/%]");
+        String[] operatorsArr = input.split("[0-9]+");
+        numbers = new LinkedList<>(Arrays.asList(numberArr));
+        operations = new LinkedList<>(Arrays.asList(operatorsArr));
 
         Double result = Double.parseDouble(Objects.requireNonNull(numbers.poll()));
 

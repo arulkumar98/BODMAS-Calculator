@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8011908a-1781-4788-b526-f40775fb78b2" name="Changes" comment="refactor">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pythagoras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pythagoras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665031385371</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactor">
+      <created>1665032984734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665032984734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
